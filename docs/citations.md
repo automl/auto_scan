@@ -2,6 +2,10 @@
 
 ## Citation of The Software
 
+AutoScAn (Automated Scaling Analysis) is a fork of NePS. Until AutoScAn has its own
+publication, please cite the original NePS software below, and mention the AutoScAn
+repository (https://github.com/automl/auto-scan) where relevant.
+
 For citing NePS, please refer to the following:
 
 ### APA Style
